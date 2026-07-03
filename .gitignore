@@ -1,0 +1,20 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Airflow runtime dirs (mounted volumes, not repo content)
+logs/*
+!logs/.gitkeep
+plugins/*
+!plugins/.gitkeep
+config/*
+!config/.gitkeep
+
+# Trained model artifacts
+ml/models/*
+!ml/models/.gitkeep
+
+.DS_Store
