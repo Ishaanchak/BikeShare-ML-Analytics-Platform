@@ -1,3 +1,7 @@
+<img width="1461" height="766" alt="Screenshot 2026-08-12 at 8 04 10 PM" src="https://github.com/user-attachments/assets/79621754-90fc-4b20-a9f8-b46bede50945" />
+
+
+
 # Bike-Share Operations Analytics Platform
 
 A local, Docker-based operations analytics platform for Citi Bike (NYC's GBFS
